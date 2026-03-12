@@ -7,6 +7,7 @@ public class Personnel{
     private String name;
     private String title;
     private int age;
+    private String employeeId;
     private HashMap<String, String> personnelData;
 
 
